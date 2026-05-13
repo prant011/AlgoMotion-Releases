@@ -27,7 +27,6 @@
 ---
 
 <img width="3840" height="2160" alt="atmos_poster1_ui_showcase" src="screenshots/1.png" />
-<img width="3840" height="2160" alt="atmos_widget_newAdd" src="screenshots/33.png" />
 <img width="3840" height="2160" alt="atmos_poster2_minimal_16x9" src="screenshots/2.png" />
 
 <br/>
@@ -44,21 +43,16 @@
 | 🔍 | **City Search** | Search any city worldwide |
 | 📅 | **14-Day Calendar** | Full forecast calendar view |
 | ⛈️ | **Animations** | Rain, snow, sun, clouds, thunderstorm effects |
-| 🏠 | **Home Screen Widget** | View current weather at a glance without opening the app |
 | 📱 | **Compatibility** | Android 8.0+ (API 26+) |
+
 
 ---
 
 
 ##  ⭐ Application 
 
-    --version_1
-- Go to Releases "Atmos v1.0.0" 
+- Go to Releases "Atmos v1.0.0"
 - Download the "AtmosINS.apk"
-
-    --version_2
-- Go to Releases "Atmos v2.0.0" 
-- Download the "AtmosINSv2.apk"
 
 ---
 
