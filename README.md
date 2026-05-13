@@ -27,11 +27,11 @@ AlgoMotion is a Windows desktop sorting algorithm visualizer written in C++ with
 ## Project Preview
 
 <p align="center">
-  <img src="screenshots/1.png" alt="AlgoMotion project preview" width="850">
+  <img src="screenshots/project-preview.png" alt="AlgoMotion project preview" width="850">
 </p>
 
 <p align="center">
-  <img src="screenshots/2.png" alt="AlgoMotion project preview" width="850">
+  <img src="screenshots/project-preview2.png" alt="AlgoMotion project preview" width="850">
 </p>
 
 ## How AlgoMotion Visualizer Works Demo
